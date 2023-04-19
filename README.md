@@ -1,4 +1,4 @@
-# Tiling-Project
+# Tiling Project
 
 Welcome! 
 
